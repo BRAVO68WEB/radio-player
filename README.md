@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Music Radio create by Bravo68web.
+> Music Radio created by Bravo68web.
 
 ### 🏠 [Homepage](radio.b68dev.xyz)
 
@@ -17,18 +17,19 @@
 
 👤 **BRAVO68WEB**
 
-* Website: https://bravo68web.me
-* Twitter: [@BRAVO68WEB](https://twitter.com/BRAVO68WEB)
-* Github: [@BRAVO68WEB](https://github.com/BRAVO68WEB)
-* LinkedIn: [@bravo68web](https://linkedin.com/in/bravo68web)
+- Website: https://bravo68web.me
+- Twitter: [@BRAVO68WEB](https://twitter.com/BRAVO68WEB)
+- Github: [@BRAVO68WEB](https://github.com/BRAVO68WEB)
+- LinkedIn: [@bravo68web](https://linkedin.com/in/bravo68web)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/BRAVO68WEB/radio-player/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/BRAVO68WEB/radio-player/issues).
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
