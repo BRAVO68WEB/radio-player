@@ -133,7 +133,7 @@ $(".active-box").hover(
 );
 
 var audioMp3 = new Audio();
-audioMp3.src = "https://audio-listen.b68dev.xyz/radio.mp3";
+audioMp3.src = "https://listen.b68dev.xyz/radio.mp3";
 
 function playAudio() {
   audioMp3.play();
